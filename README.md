@@ -1,4 +1,4 @@
-# Infinity Loop for [Visual Studio 2015](http://visualstudio.com)
+# Infinity Loop Theme for [Visual Studio 2015](http://visualstudio.com)
 
 > A dark theme for [Visual Studio 2015](http://visualstudio.com).
 
